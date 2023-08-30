@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="encabezado">titulinho</string>
+    <string name="cucea">CUCEINHO</string>
+    <string name="saludo">Ola</string>
+    <string name="clic">Cliquinho</string>
+</resources>

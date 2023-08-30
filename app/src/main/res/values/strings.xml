@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">i18n</string>
+    <string name="encabezado">Title</string>
+    <string name="cucea">CUCEA</string>
+    <string name="saludo">Hello</string>
+    <string name="clic">Click me</string>
+</resources>

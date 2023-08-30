@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="encabezado">titul\'e</string>
+    <string name="cucea">CUCEE</string>
+    <string name="saludo">Bonjour</string>
+    <string name="clic">Le cliquee</string>
+</resources>
